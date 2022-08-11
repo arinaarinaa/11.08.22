@@ -1,4 +1,3 @@
 # 11.08.22
+ПРИВЕТ ВСЕМ!!! 
 
-мой первый репозиторий.
-hello world from Artem Chernomazov
